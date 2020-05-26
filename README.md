@@ -13,3 +13,5 @@ What are the three most important tools/strategies you use for organizing your w
 2. Scientist
 3. No work
 4. No organization
+
+#Er det bedre nå?
